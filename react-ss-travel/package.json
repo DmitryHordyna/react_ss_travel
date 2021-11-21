@@ -10,7 +10,10 @@
     "@types/jest": "^26.0.24",
     "@types/node": "^12.20.37",
     "@types/react": "^17.0.36",
+    "@types/react-burger-menu": "^2.8.2",
     "@types/react-dom": "^17.0.11",
+    "@types/react-scroll": "^1.8.3",
+    "@types/styled-components": "^5.1.15",
     "react": "^17.0.2",
     "react-burger-menu": "^3.0.6",
     "react-dom": "^17.0.2",
@@ -30,11 +33,12 @@
     "test": "craco test",
     "eject": "react-scripts eject"
   },
-   "babelMacros": {
+  "babelMacros": {
     "twin": {
       "config": "./tailwind.config.js",
       "preset": "styled-components"
-    },
+    }
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
