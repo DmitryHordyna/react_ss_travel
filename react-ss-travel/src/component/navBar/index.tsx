@@ -30,10 +30,11 @@ const NavItems = tw.ul`
         h-auto
         lg:w-auto
         flex
-        justify-center
+        justify-content[space-around]
         items-center
         lg:h-full
         lg:ml-20
+        
 `;
 
 const NavItem = tw.li`    

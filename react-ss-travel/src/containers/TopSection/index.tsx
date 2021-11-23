@@ -126,7 +126,7 @@ export function TopSection() {
                 <NavBar />
                 <InfoSection>
                     <FloatingText>World</FloatingText>
-                    <FloatingText style={{ display: "inline-flex" }}>Of<OutlineTextSvg viewBox="0 0 530 100"><text>PARADISE,</text></OutlineTextSvg></FloatingText>
+                    <FloatingText style={{ display: "inline-flex" }}>OF<OutlineTextSvg viewBox="0 0 530 100"><text>PARADISE,</text></OutlineTextSvg></FloatingText>
                   
                     <FloatingText>INDONESIA.</FloatingText>
                     <DescriptionText> Let's explore of the third largest countries in the world, namely
